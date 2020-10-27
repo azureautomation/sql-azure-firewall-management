@@ -1,0 +1,20 @@
+{
+    "Author": "Pete Maroun",
+    "ContentSize": 2806,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sql-azure-firewall-management/master/AzureMgmtAddFirewall.ps1",
+    "DownloadCount": 1242,
+    "Id": "SQL-Azure-Firewall-ce1281cf",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 222,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-6-24T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script will walk you through adding or replacing firewalls for SQL databases within Subscriptions. By default, the script enumerate subscriptions , servers, and databases unless specified otherwise.",
+    "Title": "SQL Azure Firewall Management",
+    "UpdatedDate": "2015-6-26T00:00:00",
+    "Url": "https://github.com/azureautomation/sql-azure-firewall-management",
+    "UserTags": ""
+}
